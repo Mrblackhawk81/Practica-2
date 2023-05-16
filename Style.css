@@ -1,0 +1,9 @@
+#miLista .nav-item:not(:last-child) {
+    margin-right: 30px; 
+  }
+
+#habil{
+    background-color: black;
+    border-radius: 9%;
+}
+ 
